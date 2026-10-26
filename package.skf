@@ -1,0 +1,11 @@
+пакет {
+    имя = "skyforge-bank-card"
+    версия = "0.1.0"
+    автор = "SkyPackages"
+    описание = "Валидация банковских карт (Luhn)."
+    репозиторий = "github.com/skytech-alt/skyforge-bank-card"
+    точка_входа = "code/main.skf"
+    теги = ["bank-card", "luhn", "validate"]
+    лицензия = "MIT"
+    зависимости = []
+}
